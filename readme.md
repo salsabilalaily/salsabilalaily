@@ -1,6 +1,6 @@
 # Hi, I'm Salsabila (Bila) 👋
 
-**Software Developer** at Sugar Group Companies · UGM Software Engineering (Cum Laude)
+**Software Developer** at Sugar Group Companies with 3+ years of experience · UGM Software Engineering (Cum Laude)
 Building business systems, full-stack apps, and AI/LLM tools with Python, Go, and Laravel.
 
 ## What I work on
